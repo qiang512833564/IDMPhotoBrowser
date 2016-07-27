@@ -1,3 +1,5 @@
+图片浏览器
+
 # IDMPhotoBrowser ![](http://cocoapod-badges.herokuapp.com/v/IDMPhotoBrowser/badge.png) ![](http://cocoapod-badges.herokuapp.com/p/IDMPhotoBrowser/badge.png)
 
 IDMPhotoBrowser is a new implementation based on [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser).
